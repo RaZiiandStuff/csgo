@@ -9,6 +9,6 @@
 * **Crosshair**
 
 # Accounts
-[1th](http://steamcommunity.com/id/trankx)
-[2th](http://steamcommunity.com/id/linuxCSGO)
-[3th](http://steamcommunity.com/id/hiichbinnico)
+* [1th](http://steamcommunity.com/id/trankx)
+* [2th](http://steamcommunity.com/id/linuxCSGO)
+* [3th](http://steamcommunity.com/id/hiichbinnico)
