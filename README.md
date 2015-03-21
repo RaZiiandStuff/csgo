@@ -1,7 +1,12 @@
 # Counter-Strike: Global Offensive
 * Config
-* * config.cfg
+* **config.cfg**
 * autoexec
-* * autoexec.cfg
+* **autoexec.cfg**
 * scripts
-* * 
+* **Binds**
+* **Viewmodel**
+* **Crosshair**
+
+# Accounts
+[releases page](https://github.com/pixeldesu/technicolour/releases)
