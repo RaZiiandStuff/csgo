@@ -9,4 +9,6 @@
 * **Crosshair**
 
 # Accounts
-[releases page](https://github.com/pixeldesu/technicolour/releases)
+[1th](http://steamcommunity.com/id/trankx)
+[2th](http://steamcommunity.com/id/linuxCSGO)
+[3th](http://steamcommunity.com/id/hiichbinnico)
