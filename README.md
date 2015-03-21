@@ -1,2 +1,4 @@
-# csgo
-config, autoexec, scripts
+# Counter-Strike: Global Offensive
+* Config
+* autoexec
+* scripts
