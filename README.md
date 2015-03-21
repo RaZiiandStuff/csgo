@@ -1,0 +1,2 @@
+# csgo
+config, autoexec, scripts
