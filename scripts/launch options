@@ -1,0 +1,3 @@
+-novid -refresh 120 -console -language english -threads 8 +fps_max 999
+
+-novid -refresh 120 -console -language textmodorel -threads 8 +fps_max 999
