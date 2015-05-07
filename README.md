@@ -1,14 +1,16 @@
 # Counter-Strike: Global Offensive
 * Config
 * **config.cfg**
+* **crosshairtest.cfg**
+* **dm.cfg**
+* **dm2.cfg**
+* **dm3.cfg**
+* **training.cfg**
 * autoexec
 * **autoexec.cfg**
 * scripts
-* **Binds**
-* **Viewmodel**
-* **Crosshair**
-
-# Accounts
-* [1th](http://steamcommunity.com/id/trankx)
-* [2th](http://steamcommunity.com/id/linuxCSGO)
-* [3th](http://steamcommunity.com/id/hiichbinnico)
+* **binds**
+* **viewmodel**
+* **crosshair**
+* **csgo_textmodorel**
+* **launch options**
