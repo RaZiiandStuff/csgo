@@ -1,16 +1,7 @@
-# Counter-Strike: Global Offensive
-* Config
-* **config.cfg**
-* **crosshairtest.cfg**
-* **dm.cfg**
-* **dm2.cfg**
-* **dm3.cfg**
-* **training.cfg**
-* autoexec
-* **autoexec.cfg**
-* scripts
-* **binds**
-* **viewmodel**
-* **crosshair**
-* **csgo_textmodorel**
-* **launch options**
+# Informations
+Resolution: 1024x748 (Testing 800x600) stretched
+Mousesens.: 0.85
+
+Monitor: BenQ 2720T @ 120 Hz
+Mouse: ROCCAT Kone XTD | DPI: 600
+Keyboard: ROCCAT Ryos MK Pro
