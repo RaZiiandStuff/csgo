@@ -46,7 +46,7 @@ bind "b" "buymenu"
 bind "UPARROW" "voice_enable 1; say_team Voice unmuted."
 bind "DOWNARROW" "voice_enable 0; say_team Voice muted."
 bind "LEFTARROW" "cl_mute_enemy_team 1; say Enemy team muted."
-bind "RIGHTARROW" "cl_mute_enemy_team 1; say Enemy team unmuted."
+bind "RIGHTARROW" "cl_mute_enemy_team 0; say Enemy team unmuted."
 
 bind "CTRL" "+duck"
 bind "SPACE" "+jump"
